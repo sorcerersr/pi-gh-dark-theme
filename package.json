@@ -1,0 +1,22 @@
+{
+  "name": "pi-gh-dark-theme",
+  "version": "1.0.0",
+  "description": "Pi coding agent theme inspired by the VSCode GitHub Color Theme",
+  "keywords": [
+    "pi-package",
+    "pi-theme"
+  ],
+  "license": "MIT",
+  "type": "module",
+  "homepage": "https://github.com/sorcerersr/pi-gh-dark-theme#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sorcerersr/pi-gh-dark-theme"
+  },
+  "pi": {
+    "themes": [
+      "./themes"
+    ],
+    "image": "https://github.com/sorcerersr/pi-gh-dark-theme/raw/main/assets/screenshot.png"
+  }
+}
