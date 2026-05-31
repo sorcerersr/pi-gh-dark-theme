@@ -6,7 +6,7 @@ Theme package for the [Pi coding agent](https://pi.dev/) inspired by the dark th
 
 # Install
 
-Copy `gh-dark.json` to your (themes directory)[https://github.com/earendil-works/pi/blob/main/packages/coding-agent/docs/themes.md#locations]
+Copy `gh-dark.json` to your [themes directory](https://github.com/earendil-works/pi/blob/main/packages/coding-agent/docs/themes.md#locations)
 
 Then select `gh-dark` in `/settings`, or add it to your Pi settings:
 
